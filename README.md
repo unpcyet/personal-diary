@@ -1,4 +1,4 @@
-# IDGAF
+## IDGAF
 - Fearmongering
 - Warmongering
 - Racebait
@@ -43,12 +43,12 @@
 - Intentional out of context information
 - Tone Policing
 
-# IGAF
+## IGAF
 - Stop stressing. Take a deep breath, relax, let go of all your burdens and pressures, ignore everything, and everything will be fine
 - Don’t take criticism from someone you wouldn’t take advice from
 - Never interrupt your enemy when he is making a mistake
 - Act like a fool
-- Being pragmatic
+- Being realistic and pragmatic
 - Don't overshare
 
 ## A set of words that can be used to explain something (e.g., what is problem)
@@ -61,6 +61,9 @@ for not stupid people, here's how it works.
 1. They depend on a Problem that they created themselves & They begin to fearmongering people with the buzzwords like nazi, racist, etc
 2. after that they offer a solution to open a new job market for themselves & the other
 3. In order to keep the needs for the job, back to 1
+
+## 2026 Indonesia Economic Analysis and Solution by [Ferry Irwandi](https://www.youtube.com/@ferryirwandi)
+- https://drive.google.com/drive/folders/1NxhojI1tfKbZAlhULZd4MRIZay6dU-3M
 
 ## Alasan-alasan organisasi/individual yang mau/tidak mau mengakui & minta maaf dari perbuatan yang salah terus viral dan tidak bisa didebat lagi :
 1. ada yang harus dijaga, seperti karir, reputasi, lawsuit, uang, dan lain-lain
