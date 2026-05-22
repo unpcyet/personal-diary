@@ -62,7 +62,7 @@ for not stupid people, here's how it works.
 2. after that they offer a solution to open a new job market for themselves & the other
 3. In order to keep the needs for the job, back to 1
 
-## 2026 Indonesia Economic Analysis and Solution by [Ferry Irwandi](https://www.youtube.com/@ferryirwandi)
+## 2026 Indonesia Economic Analysis and Solution by [Ferry Irwandi](https://www.youtube.com/watch?v=xrRU-XXCLpo)
 - https://drive.google.com/drive/folders/1NxhojI1tfKbZAlhULZd4MRIZay6dU-3M
 
 ## Alasan-alasan organisasi/individual yang mau/tidak mau mengakui & minta maaf dari perbuatan yang salah terus viral dan tidak bisa didebat lagi :
