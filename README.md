@@ -8,6 +8,7 @@
 - Cognitive Bias
 - Emotional Blackmail
 - Gimmick
+- Every accusation is a confession
 - Fake it till you Make it
 - Character Assassination
 - Professional Playing Victim
@@ -25,6 +26,7 @@
 - Projection
 - Red Herring
 - Pengalihan Isu
+- Cuci tangan
 - Whataboutism
 - Vicious Circle
 - Selfish/Egois/Narcissist
