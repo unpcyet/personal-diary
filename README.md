@@ -6,6 +6,7 @@
 - Clickbait
 - Gotcha
 - Cognitive Bias
+- Toxic Positivity
 - Emotional Blackmail
 - Gimmick
 - Every accusation is a confession
