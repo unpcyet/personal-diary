@@ -10,6 +10,8 @@
 - Emotional Blackmail
 - Gimmick
 - Every accusation is a confession
+- The lowest level of argument
+- Buzzwords
 - Fake it till you Make it
 - Character Assassination
 - Professional Playing Victim
