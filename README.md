@@ -31,6 +31,8 @@
 - Pengalihan Isu
 - Cuci tangan
 - Whataboutism
+- Damage Control
+- Deflection
 - Vicious Circle
 - Selfish/Egois/Narcissist
 - Dunning Kruger Effect
