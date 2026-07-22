@@ -54,6 +54,7 @@
 - Stop stressing. Take a deep breath, relax, let go of all your burdens and pressures, ignore everything, and everything will be fine
 - Don’t take criticism from someone you wouldn’t take advice from
 - Never interrupt your enemy when he is making a mistake
+- Being sarcastic and satirical to tell someone how absurd they are
 - Act like a fool
 - Being realistic and pragmatic
 - Don't overshare
