@@ -26,6 +26,7 @@
 - Denial
 - Menghibur Diri
 - Gaslight/Yasslighting
+- Strawman
 - Projection
 - Red Herring
 - Pengalihan Isu
