@@ -28,6 +28,7 @@
 - Gaslight/Yasslighting
 - Strawman
 - Projection
+- Poisoning the well
 - Red Herring
 - Pengalihan Isu
 - Cuci tangan
