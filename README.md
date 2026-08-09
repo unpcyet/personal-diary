@@ -1,4 +1,4 @@
-## IDGAF
+# IDGAF
 - Fearmongering
 - Warmongering
 - Racebait
@@ -52,7 +52,7 @@
 - Intentional out of context information
 - Tone Policing
 
-## IGAF
+# IGAF
 - Stop stressing. Take a deep breath, relax, let go of all your burdens and pressures, ignore everything, and everything will be fine
 - Always & Only use Logic, Objectivity, Rationality
 - Don’t take criticism from someone you wouldn’t take advice from
@@ -62,10 +62,14 @@
 - Being realistic and pragmatic
 - Don't overshare
 
+# Random stuff
+
 ## A set of words that can be used to explain something (e.g., what is problem)
 1. a situation where
 2. a condition where
 3. a circumstance where
+
+---
 
 ## There's 2 kind of people related to how DEI works : Stupid People & Not Stupid People (not always smart)
 for not stupid people, here's how it works.
@@ -73,17 +77,25 @@ for not stupid people, here's how it works.
 2. after that they offer a solution to open a new job market for themselves & the other
 3. In order to keep the needs for the job, back to 1
 
+---
+
 ## 2026 Indonesia Economic Analysis and Solution by [Ferry Irwandi](https://www.youtube.com/watch?v=xrRU-XXCLpo)
 - https://drive.google.com/drive/folders/1NxhojI1tfKbZAlhULZd4MRIZay6dU-3M
+
+---
 
 ## Alasan-alasan organisasi/individual yang mau/tidak mau mengakui & minta maaf dari perbuatan yang salah terus viral dan tidak bisa didebat lagi :
 1. ada yang harus dijaga, seperti karir, reputasi, lawsuit, uang, dan lain-lain
 2. Kalau tidak ada yang harus dijaga artinya yang ada malah di double down, contohnya adalah ketika banyak yang selebrasi ketika terjadi assassination charlie kirk, bukannya menyesali malah playing victim
 
+---
+
 ## this are the few reason from gimmick (ex. open debate/insult/labeling) that hasan done for other people or themselves
 - Maintain the current audience
 - reach the new audience that has the same thinking but don't watch hasan yet
 - call they "nazi", "racist", "fascist" to maintain the hatred & justify the violence against them
+
+---
 
 ## Berbagai Kemungkinan yang terjadi di Drama Salah yang merasa "disalahkan" atas semua kekalahan yang terjadi
 - Kemungkinan pihak salah yang memang salah dari awal
@@ -92,6 +104,8 @@ for not stupid people, here's how it works.
   1. Salah sudah berusaha segala cara untuk bisa menyelesaikan masalah secara cepat in private tapi berujung selalu buntu, sehingga salah mau gak mau harus membuka & menjelaskan masalah secara jelas ke public supaya masalah cepat selesai
 
 - Kemungkinan pihak Salah & Liverpool sama-sama salah
+
+---
 
 # Online Radio
 - https://onlineradiobox.com/us/worldhits/?cs=us.worldhits&played=1
