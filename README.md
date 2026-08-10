@@ -70,7 +70,7 @@
 
 ---
 
-# Random stuff
+# Brain Dumps
 ```markdown
 # A set of words that can be used to explain something (e.g., what is problem)
 1. a situation where
