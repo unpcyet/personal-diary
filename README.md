@@ -79,6 +79,29 @@
 
 ---
 
+# masalah verifikasi ketika sedang login akun google
+
+jadi ada sebuah masalah, masalahnya kayak gini:
+
+jadi, ketika saya mau login akun google atau gmail (di bagian setelah memasukkan password dengan benar), muncul proses verifikasi untuk memastikan ini orang yang sedang melakukan proses login itu benar-benar si pemilik akun atau bukan, melalui cara:
+
+1. melakukan panggilan ke nomor kartu sim yang telah terdaftar di akun google tersebut (artinya nomor kartu sim harus dalam kondisi berfungsi dengan baik)
+2. kirim kode ke nomor kartu sim yang telah terdaftar di akun google tersebut (artinya nomor kartu sim harus dalam kondisi berfungsi dengan baik)
+3. kirim kode ke akun google lain yang telah dijadikan sebagai akun recovery di akun google tersebut. Untuk mengetahui apa kodenya, cek gmail dari akun google yang telah dijadikan sebagai akun recovery tersebut
+4. [lupa]
+
+nah kalau saya pilih no 1 atau 2, masalahnya adalah kartu sim saya sudah tidak berfungsi dengan baik
+
+sehingga saya pilih no 3, tetapi masih tetap ada masalah yaitu di hp atau laptop saya belum terpasang akun google recovery itu, untungnya adalah masih ada android tv, yang ternyata ketika saya login akun google (akun recovery) di browser (BrowserHere) itu bisa langsung login tanpa ada proses verifikasi.
+
+pertanyaannya adalah dengan kondisi seperti itu, kalau tidak ada device android tv, maka tidak akan bisa saya login akun google atau gmail saya.
+
+itu dia masalahnya yang belum saya temukan solusinya itu apa.
+
+saat ini saya mengakalinya dengan cara minimal di satu device harus sudah terpasang akun google yang sudah terdaftar sebagai akun recovery di akun utama. Dengan begitu, ketika sedang login google atau gmail di akun utama dan ternyata muncul proses verifikasi, saya langsung pilih no 3 saja.
+
+---
+
 # There's 2 kind of people related to how DEI works : Stupid People & Not Stupid People (not always smart)
 for not stupid people, here's how it works.
 1. They depend on a Problem that they created themselves & They begin to fearmongering people with the buzzwords like nazi, racist, etc
