@@ -1,4 +1,5 @@
-# IDGAF
+# Unstructured Texts
+IDGAF:
 ```markdown
 - Fearmongering
 - Warmongering
@@ -54,7 +55,7 @@
 - Tone Policing
 ```
 
-# IGAF
+IGAF:
 ```markdown
 - Stop stressing. Take a deep breath, relax, let go of all your burdens and pressures, ignore everything, and everything will be fine
 - Always & Only use Logic, Objectivity, Rationality
@@ -66,7 +67,6 @@
 - Don't overshare
 ```
 
-# Brain Dumps
 A set of words that can be used to explain something (e.g., what is problem):
 ```markdown
 1. a situation where
