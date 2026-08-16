@@ -1,85 +1,82 @@
 # Unstructured Texts
 IDGAF:
 ```markdown
-- Fearmongering
-- Warmongering
-- Racebait
-- Ragebait
-- Clickbait
-- Gotcha
-- Cognitive Bias
-- Toxic Positivity
-- Emotional Blackmail
-- Gimmick
-- Every accusation is a confession
-- The lowest level of argument
-- Buzzwords
-- Fake it till you Make it
-- Character Assassination
-- Professional Playing Victim
-- "It's Not Our Fault"
-- Maling Teriak Maling
-- Alibi/Excuses
-- Coping So Hard
-- Ngeles
-- Main Aman
-- It's All about Public Optics
-- Childish
-- Denial
-- Menghibur Diri
-- Gaslight/Yasslighting
-- Strawman
-- Projection
-- Poisoning the well
-- Red Herring
-- Pengalihan Isu
-- Cuci tangan
-- Whataboutism
-- Damage Control
-- Deflection
-- Vicious Circle
-- Selfish/Egois/Narcissist
-- Dunning Kruger Effect
-- Pura-pura this & Pura-pura that
-- Provokes
-- Bandwagon Effect
-- Virtue Signaling
-- Double Standard
-- Luxury Belief
-- Echo Chamber
-- Privilege
-- Out of Touch
-- This Guilt & That Guilt
-- Kepentingan Agenda/Propaganda
-- Intentional out of context information
-- Tone Policing
+* Fearmongering
+* Warmongering
+* Racebait
+* Ragebait
+* Clickbait
+* Gotcha
+* Cognitive Bias
+* Toxic Positivity
+* Emotional Blackmail
+* Gimmick
+* Every accusation is a confession
+* The lowest level of argument
+* Buzzwords
+* Fake it till you Make it
+* Character Assassination
+* Professional Playing Victim
+* "It's Not Our Fault"
+* Maling Teriak Maling
+* Alibi/Excuses
+* Coping So Hard
+* Ngeles
+* Main Aman
+* It's All about Public Optics
+* Childish
+* Denial
+* Menghibur Diri
+* Gaslight/Yasslighting
+* Strawman
+* Projection
+* Poisoning the well
+* Red Herring
+* Pengalihan Isu
+* Cuci tangan
+* Whataboutism
+* Damage Control
+* Deflection
+* Vicious Circle
+* Selfish/Egois/Narcissist
+* Dunning Kruger Effect
+* Pura-pura this & Pura-pura that
+* Provokes
+* Bandwagon Effect
+* Virtue Signaling
+* Double Standard
+* Luxury Belief
+* Echo Chamber
+* Privilege
+* Out of Touch
+* This Guilt & That Guilt
+* Kepentingan Agenda/Propaganda
+* Intentional out of context information
+* Tone Policing
 ```
 
 IGAF:
 ```markdown
-- Stop stressing. Take a deep breath, relax, let go of all your burdens and pressures, ignore everything, and everything will be fine
-- Always & Only use Logic, Objectivity, Rationality
-- Don’t take criticism from someone you wouldn’t take advice from
-- Never interrupt your enemy when he is making a mistake
-- Being sarcastic and satirical to tell someone how absurd they are
-- Act like a fool
-- Being realistic and pragmatic
-- Don't overshare
+* Stop stressing. Take a deep breath, relax, let go of all your burdens and pressures, ignore everything, and everything will be fine
+* Always & Only use Logic, Objectivity, Rationality
+* Don’t take criticism from someone you wouldn’t take advice from
+* Never interrupt your enemy when he is making a mistake
+* Being sarcastic and satirical to tell someone how absurd they are
+* Act like a fool
+* Being realistic and pragmatic
+* Don't overshare
 ```
 
 A set of words that can be used to explain something (e.g., what is problem):
 ```markdown
-1. a situation where
-2. a condition where
-3. a circumstance where
+* a situation where
+* a condition where
+* a circumstance where
 ```
 
 masalah verifikasi ketika sedang login akun google:
 ```markdown
-
-jadi ada sebuah masalah, masalahnya kayak gini:
-
-jadi, ketika saya mau login akun google atau gmail (di bagian setelah memasukkan password dengan benar), muncul proses verifikasi untuk memastikan ini orang yang sedang melakukan proses login itu benar-benar si pemilik akun atau bukan, melalui cara:
+jadi, ketika saya mau login akun google atau gmail (di bagian setelah memasukkan password dengan benar), muncul proses verifikasi untuk memastikan ini orang yang sedang melakukan proses login itu benar-benar si pemilik akun atau bukan, melalui cara sebagai berikut.
 
 1. melakukan panggilan ke nomor kartu sim yang telah terdaftar di akun google tersebut (artinya nomor kartu sim harus dalam kondisi berfungsi dengan baik)
 2. kirim kode ke nomor kartu sim yang telah terdaftar di akun google tersebut (artinya nomor kartu sim harus dalam kondisi berfungsi dengan baik)
@@ -113,9 +110,9 @@ Alasan-alasan organisasi/individual yang mau/tidak mau mengakui & minta maaf dar
 
 this are the few reason from gimmick (ex. open debate/insult/labeling) that hasan done for other people or themselves:
 ```markdown
-- Maintain the current audience
-- reach the new audience that has the same thinking but don't watch hasan yet
-- call they "nazi", "racist", "fascist" to maintain the hatred & justify the violence against them
+* Maintain the current audience
+* reach the new audience that has the same thinking but don't watch hasan yet
+* call they "nazi", "racist", "fascist" to maintain the hatred & justify the violence against them
 ```
 
 Berbagai Kemungkinan yang terjadi di Drama Salah yang merasa "disalahkan" atas semua kekalahan yang terjadi:
@@ -129,96 +126,96 @@ Berbagai Kemungkinan yang terjadi di Drama Salah yang merasa "disalahkan" atas s
 ```
 
 # Online Radio
-- https://onlineradiobox.com/us/worldhits/?cs=us.worldhits&played=1
-- https://onlineradiobox.com/id/ninetysixsmoothsong/?cs=id.ninetysixsmoothsong&played=1
-- https://onlineradiobox.com/id/abesjamztoears/?cs=id.abesjamztoears&played=1
-- https://onlineradiobox.com/ae/exclusivelylewiscapaldi/?cs=ae.exclusivelylewiscapaldi&played=1
-- https://onlineradiobox.com/ch/1fmamericastop40ballads/?cs=ch.1fmamericastop40ballads&played=1
-- https://onlineradiobox.com/at/kronehitgreatesthits/?cs=at.kronehitgreatesthits&played=1
-- https://onlineradiobox.com/nl/skyrarunnin/?cs=nl.skyrarunnin&played=1
-- https://onlineradiobox.com/nl/skyral90/?cs=nl.skyral90&played=1
-- https://onlineradiobox.com/ae/sportifypop/?cs=ae.sportifypop&played=1
-- https://onlineradiobox.com/nl/hotradiohits/?cs=nl.hotradiohits&played=1
-- https://onlineradiobox.com/ae/onedirectionhits/?cs=ae.onedirectionhits&played=1
-- https://onlineradiobox.com/ae/exclusivelyonedirection/?cs=ae.exclusivelyonedirection&played=1
-- https://onlineradiobox.com/fr/nrjatwork/?cs=fr.nrjatwork&played=1
-- https://onlineradiobox.com/id/juanbatam/?cs=id.juanbatam&played=1
-- https://onlineradiobox.com/ae/sabrinacarpenter/?cs=ae.sabrinacarpenter&played=1
-- https://onlineradiobox.com/ae/exclusvelycamilacabello/?cs=ae.exclusvelycamilacabello&played=1
-- https://onlineradiobox.com/ae/exclusivelysza/?cs=ae.exclusivelysza&played=1
-- https://onlineradiobox.com/ae/charlieputh/?cs=ae.charlieputh&played=1
-- https://onlineradiobox.com/ae/edsheeranhits/?cs=ae.edsheeranhits&played=1
-- https://onlineradiobox.com/ae/exclusivelyedsheeran/?cs=ae.exclusivelyedsheeran&played=1
-- https://onlineradiobox.com/ae/justinbieberhits/?cs=ae.justinbieberhits&played=1
-- https://onlineradiobox.com/ae/exclusivelybieber/?cs=ae.exclusivelybieber&played=1
-- https://onlineradiobox.com/ae/exclusivelybrunomars/?cs=ae.exclusivelybrunomars&played=1
-- https://onlineradiobox.com/ae/exclusivelymaroon5/?cs=ae.exclusivelymaroon5&played=1
-- https://onlineradiobox.com/id/endlessforbeacon100/?cs=id.endlessforbeacon100&played=1
-- https://onlineradiobox.com/id/infinitebeacon/?cs=id.infinitebeacon&played=1
-- https://onlineradiobox.com/nl/538nonstop/?cs=nl.538nonstop&played=1
-- https://onlineradiobox.com/de/silver/?cs=de.silver&played=1
-- https://onlineradiobox.com/de/oberberg/?cs=de.oberberg&played=1
-- https://onlineradiobox.com/at/kronehitnumberone/?cs=at.kronehitnumberone&played=1
-- https://onlineradiobox.com/de/bigfm2010er/?cs=de.bigfm2010er&played=1
-- https://onlineradiobox.com/nl/kempenfm/?cs=nl.kempenfm&played=1
-- https://onlineradiobox.com/ae/exclusivelytwentyonepilots/?cs=ae.exclusivelytwentyonepilots&played=1
-- https://onlineradiobox.com/ae/exclusivelydaftpunk/?cs=ae.exclusivelydaftpunk&played=1
-- https://onlineradiobox.com/de/radio7top100hiphop/?cs=de.radio7top100hiphop&played=1
-- https://onlineradiobox.com/ae/exclusivelytheweeknd/?cs=ae.exclusivelytheweeknd&played=1
-- https://onlineradiobox.com/ae/theweekndhits/?cs=ae.theweekndhits&played=1
-- http://p.onlineradiobox.com/id/stuck/player/?cs=id.stuck&played=1
-- https://onlineradiobox.com/uk/likebirmingham/?cs=uk.likebirmingham&played=1
-- https://onlineradiobox.com/uk/heart10s/?cs=uk.heart10s&played=1
-- https://onlineradiobox.com/fr/cheriezen/?cs=fr.cheriezen&played=1
-- https://onlineradiobox.com/nl/slamfm/?cs=nl.slamfm&played=1
-- https://onlineradiobox.com/ae/exclusivelyimaginedragons/?cs=ae.exclusivelyimaginedragons&played=1
-- https://onlineradiobox.com/ae/exclusivelycoldplay/?cs=ae.exclusivelycoldplay&played=1
-- https://onlineradiobox.com/ae/coldplayhits/?cs=ae.coldplayhits&played=1
-- https://onlineradiobox.com/de/bigfmusrapandhiphop/?cs=de.bigfmusrapandhiphop&played=1
-- https://onlineradiobox.com/ae/exclusivelyeminem/?cs=ae.exclusivelyeminem&played=1
-- https://onlineradiobox.com/ae/postmalonehits/?cs=ae.postmalonehits&played=1
-- https://onlineradiobox.com/ae/exclusivelypostmalone/?cs=ae.exclusivelypostmalone&played=1
-- https://onlineradiobox.com/ae/excjuicewrld/?cs=ae.excjuicewrld&played=1
-- https://onlineradiobox.com/ae/kanyewesthits/?cs=ae.kanyewesthits&played=1
-- https://onlineradiobox.com/ae/exclusivelykanyewest/?cs=ae.exclusivelykanyewest&played=1
-- https://onlineradiobox.com/ae/exclusivelydrake/?cs=ae.exclusivelydrake&played=1
-- https://onlineradiobox.com/ae/drakehits/?cs=ae.drakehits&played=1
-- https://onlineradiobox.com/ae/exclusivelykendricklamar/?cs=ae.exclusivelykendricklamar&played=1
-- https://onlineradiobox.com/fr/nrjlatinohits/?cs=fr.nrjlatinohits&played=1
-- https://onlineradiobox.com/de/dexiron/?cs=de.dexiron&played=1
-- https://onlineradiobox.com/nl/slamnonst/?cs=nl.slamnonst&played=1
-- https://onlineradiobox.com/ae/sportifydance/?cs=ae.sportifydance&played=1
-- https://onlineradiobox.com/nl/538party/?cs=nl.538party&played=1
-- https://onlineradiobox.com/ae/exclusivelycalvinharris/?cs=ae.exclusivelycalvinharris&played=1
-- https://onlineradiobox.com/ae/exclusivelyavicii/?cs=ae.exclusivelyavicii&played=1
-- https://onlineradiobox.com/fr/nrjdavguetta/?cs=fr.nrjdavguetta&played=1
-- https://onlineradiobox.com/at/kronehitedm/?cs=at.kronehitedm&played=1
-- https://onlineradiobox.com/ae/oasishits/?cs=ae.oasishits&played=1
-- https://onlineradiobox.com/ae/exclusivelyoasis/?cs=ae.exclusivelyoasis&played=1
-- https://onlineradiobox.com/ae/exclusivelygreenday/?cs=ae.exclusivelygreenday&played=1
-- https://onlineradiobox.com/ca/punkworld/?cs=ca.punkworld&played=1
-- https://onlineradiobox.com/ae/sportifyrock/?cs=ae.sportifyrock&played=1
-- https://onlineradiobox.com/de/bobcollegerock/?cs=de.bobcollegerock&played=1
-- https://onlineradiobox.com/ae/exclusivelykeane/?cs=ae.exclusivelykeane&played=1
-- https://onlineradiobox.com/ch/1fmalternativerockxhitsradio/?cs=ch.1fmalternativerockxhitsradio&played=1
-- https://onlineradiobox.com/ae/exclusivelythekillers/?cs=ae.exclusivelythekillers&played=1
-- https://onlineradiobox.com/ae/exclusivelymuse/?cs=ae.exclusivelymuse&played=1
-- https://onlineradiobox.com/id/niki/?cs=id.niki&played=1
-- https://onlineradiobox.com/us/wdzn/?cs=us.wdzn&played=1
-- https://onlineradiobox.com/br/omelhordelinkinpark/?cs=br.omelhordelinkinpark&played=1
-- https://onlineradiobox.com/fr/nrjlinkinpark/?cs=fr.nrjlinkinpark&played=1
-- https://onlineradiobox.com/fr/nrjrock/?cs=fr.nrjrock&played=1
-- https://onlineradiobox.com/de/rock2000errock/?cs=de.rock2000errock&played=1
-- https://onlineradiobox.com/de/bob2000errock/?cs=de.bob2000errock&played=1
-- https://onlineradiobox.com/de/absolutrock/?cs=de.absolutrock&played=1
-- https://onlineradiobox.com/de/bobemo/?cs=de.bobemo&played=1
-- 
-- https://onlineradiobox.com/uk/capitalfmuk/?cs=uk.capitalfmuk&played=1
-- https://onlineradiobox.com/de/planetcoldplay/?cs=de.planetcoldplay&played=1
-- https://onlineradiobox.com/de/bobska/?cs=de.bobska&played=1
-- https://www.jango.com/stations/401903919/tunein
-- https://www.jango.com/stations/325972976/tunein
-- https://www.jango.com/stations/402326543/tunein
-- https://www.jango.com/stations/314664515/tunein
-- https://www.jango.com/stations/401908590/tunein
-- https://onlineradiobox.com/de/bobmetalcore/?cs=de.bobmetalcore&played=1
+* https://onlineradiobox.com/us/worldhits/?cs=us.worldhits&played=1
+* https://onlineradiobox.com/id/ninetysixsmoothsong/?cs=id.ninetysixsmoothsong&played=1
+* https://onlineradiobox.com/id/abesjamztoears/?cs=id.abesjamztoears&played=1
+* https://onlineradiobox.com/ae/exclusivelylewiscapaldi/?cs=ae.exclusivelylewiscapaldi&played=1
+* https://onlineradiobox.com/ch/1fmamericastop40ballads/?cs=ch.1fmamericastop40ballads&played=1
+* https://onlineradiobox.com/at/kronehitgreatesthits/?cs=at.kronehitgreatesthits&played=1
+* https://onlineradiobox.com/nl/skyrarunnin/?cs=nl.skyrarunnin&played=1
+* https://onlineradiobox.com/nl/skyral90/?cs=nl.skyral90&played=1
+* https://onlineradiobox.com/ae/sportifypop/?cs=ae.sportifypop&played=1
+* https://onlineradiobox.com/nl/hotradiohits/?cs=nl.hotradiohits&played=1
+* https://onlineradiobox.com/ae/onedirectionhits/?cs=ae.onedirectionhits&played=1
+* https://onlineradiobox.com/ae/exclusivelyonedirection/?cs=ae.exclusivelyonedirection&played=1
+* https://onlineradiobox.com/fr/nrjatwork/?cs=fr.nrjatwork&played=1
+* https://onlineradiobox.com/id/juanbatam/?cs=id.juanbatam&played=1
+* https://onlineradiobox.com/ae/sabrinacarpenter/?cs=ae.sabrinacarpenter&played=1
+* https://onlineradiobox.com/ae/exclusvelycamilacabello/?cs=ae.exclusvelycamilacabello&played=1
+* https://onlineradiobox.com/ae/exclusivelysza/?cs=ae.exclusivelysza&played=1
+* https://onlineradiobox.com/ae/charlieputh/?cs=ae.charlieputh&played=1
+* https://onlineradiobox.com/ae/edsheeranhits/?cs=ae.edsheeranhits&played=1
+* https://onlineradiobox.com/ae/exclusivelyedsheeran/?cs=ae.exclusivelyedsheeran&played=1
+* https://onlineradiobox.com/ae/justinbieberhits/?cs=ae.justinbieberhits&played=1
+* https://onlineradiobox.com/ae/exclusivelybieber/?cs=ae.exclusivelybieber&played=1
+* https://onlineradiobox.com/ae/exclusivelybrunomars/?cs=ae.exclusivelybrunomars&played=1
+* https://onlineradiobox.com/ae/exclusivelymaroon5/?cs=ae.exclusivelymaroon5&played=1
+* https://onlineradiobox.com/id/endlessforbeacon100/?cs=id.endlessforbeacon100&played=1
+* https://onlineradiobox.com/id/infinitebeacon/?cs=id.infinitebeacon&played=1
+* https://onlineradiobox.com/nl/538nonstop/?cs=nl.538nonstop&played=1
+* https://onlineradiobox.com/de/silver/?cs=de.silver&played=1
+* https://onlineradiobox.com/de/oberberg/?cs=de.oberberg&played=1
+* https://onlineradiobox.com/at/kronehitnumberone/?cs=at.kronehitnumberone&played=1
+* https://onlineradiobox.com/de/bigfm2010er/?cs=de.bigfm2010er&played=1
+* https://onlineradiobox.com/nl/kempenfm/?cs=nl.kempenfm&played=1
+* https://onlineradiobox.com/ae/exclusivelytwentyonepilots/?cs=ae.exclusivelytwentyonepilots&played=1
+* https://onlineradiobox.com/ae/exclusivelydaftpunk/?cs=ae.exclusivelydaftpunk&played=1
+* https://onlineradiobox.com/de/radio7top100hiphop/?cs=de.radio7top100hiphop&played=1
+* https://onlineradiobox.com/ae/exclusivelytheweeknd/?cs=ae.exclusivelytheweeknd&played=1
+* https://onlineradiobox.com/ae/theweekndhits/?cs=ae.theweekndhits&played=1
+* http://p.onlineradiobox.com/id/stuck/player/?cs=id.stuck&played=1
+* https://onlineradiobox.com/uk/likebirmingham/?cs=uk.likebirmingham&played=1
+* https://onlineradiobox.com/uk/heart10s/?cs=uk.heart10s&played=1
+* https://onlineradiobox.com/fr/cheriezen/?cs=fr.cheriezen&played=1
+* https://onlineradiobox.com/nl/slamfm/?cs=nl.slamfm&played=1
+* https://onlineradiobox.com/ae/exclusivelyimaginedragons/?cs=ae.exclusivelyimaginedragons&played=1
+* https://onlineradiobox.com/ae/exclusivelycoldplay/?cs=ae.exclusivelycoldplay&played=1
+* https://onlineradiobox.com/ae/coldplayhits/?cs=ae.coldplayhits&played=1
+* https://onlineradiobox.com/de/bigfmusrapandhiphop/?cs=de.bigfmusrapandhiphop&played=1
+* https://onlineradiobox.com/ae/exclusivelyeminem/?cs=ae.exclusivelyeminem&played=1
+* https://onlineradiobox.com/ae/postmalonehits/?cs=ae.postmalonehits&played=1
+* https://onlineradiobox.com/ae/exclusivelypostmalone/?cs=ae.exclusivelypostmalone&played=1
+* https://onlineradiobox.com/ae/excjuicewrld/?cs=ae.excjuicewrld&played=1
+* https://onlineradiobox.com/ae/kanyewesthits/?cs=ae.kanyewesthits&played=1
+* https://onlineradiobox.com/ae/exclusivelykanyewest/?cs=ae.exclusivelykanyewest&played=1
+* https://onlineradiobox.com/ae/exclusivelydrake/?cs=ae.exclusivelydrake&played=1
+* https://onlineradiobox.com/ae/drakehits/?cs=ae.drakehits&played=1
+* https://onlineradiobox.com/ae/exclusivelykendricklamar/?cs=ae.exclusivelykendricklamar&played=1
+* https://onlineradiobox.com/fr/nrjlatinohits/?cs=fr.nrjlatinohits&played=1
+* https://onlineradiobox.com/de/dexiron/?cs=de.dexiron&played=1
+* https://onlineradiobox.com/nl/slamnonst/?cs=nl.slamnonst&played=1
+* https://onlineradiobox.com/ae/sportifydance/?cs=ae.sportifydance&played=1
+* https://onlineradiobox.com/nl/538party/?cs=nl.538party&played=1
+* https://onlineradiobox.com/ae/exclusivelycalvinharris/?cs=ae.exclusivelycalvinharris&played=1
+* https://onlineradiobox.com/ae/exclusivelyavicii/?cs=ae.exclusivelyavicii&played=1
+* https://onlineradiobox.com/fr/nrjdavguetta/?cs=fr.nrjdavguetta&played=1
+* https://onlineradiobox.com/at/kronehitedm/?cs=at.kronehitedm&played=1
+* https://onlineradiobox.com/ae/oasishits/?cs=ae.oasishits&played=1
+* https://onlineradiobox.com/ae/exclusivelyoasis/?cs=ae.exclusivelyoasis&played=1
+* https://onlineradiobox.com/ae/exclusivelygreenday/?cs=ae.exclusivelygreenday&played=1
+* https://onlineradiobox.com/ca/punkworld/?cs=ca.punkworld&played=1
+* https://onlineradiobox.com/ae/sportifyrock/?cs=ae.sportifyrock&played=1
+* https://onlineradiobox.com/de/bobcollegerock/?cs=de.bobcollegerock&played=1
+* https://onlineradiobox.com/ae/exclusivelykeane/?cs=ae.exclusivelykeane&played=1
+* https://onlineradiobox.com/ch/1fmalternativerockxhitsradio/?cs=ch.1fmalternativerockxhitsradio&played=1
+* https://onlineradiobox.com/ae/exclusivelythekillers/?cs=ae.exclusivelythekillers&played=1
+* https://onlineradiobox.com/ae/exclusivelymuse/?cs=ae.exclusivelymuse&played=1
+* https://onlineradiobox.com/id/niki/?cs=id.niki&played=1
+* https://onlineradiobox.com/us/wdzn/?cs=us.wdzn&played=1
+* https://onlineradiobox.com/br/omelhordelinkinpark/?cs=br.omelhordelinkinpark&played=1
+* https://onlineradiobox.com/fr/nrjlinkinpark/?cs=fr.nrjlinkinpark&played=1
+* https://onlineradiobox.com/fr/nrjrock/?cs=fr.nrjrock&played=1
+* https://onlineradiobox.com/de/rock2000errock/?cs=de.rock2000errock&played=1
+* https://onlineradiobox.com/de/bob2000errock/?cs=de.bob2000errock&played=1
+* https://onlineradiobox.com/de/absolutrock/?cs=de.absolutrock&played=1
+* https://onlineradiobox.com/de/bobemo/?cs=de.bobemo&played=1
+* 
+* https://onlineradiobox.com/uk/capitalfmuk/?cs=uk.capitalfmuk&played=1
+* https://onlineradiobox.com/de/planetcoldplay/?cs=de.planetcoldplay&played=1
+* https://onlineradiobox.com/de/bobska/?cs=de.bobska&played=1
+* https://www.jango.com/stations/401903919/tunein
+* https://www.jango.com/stations/325972976/tunein
+* https://www.jango.com/stations/402326543/tunein
+* https://www.jango.com/stations/314664515/tunein
+* https://www.jango.com/stations/401908590/tunein
+* https://onlineradiobox.com/de/bobmetalcore/?cs=de.bobmetalcore&played=1
