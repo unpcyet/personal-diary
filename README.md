@@ -54,8 +54,6 @@
 - Tone Policing
 ```
 
----
-
 # IGAF
 ```markdown
 - Stop stressing. Take a deep breath, relax, let go of all your burdens and pressures, ignore everything, and everything will be fine
@@ -68,18 +66,16 @@
 - Don't overshare
 ```
 
----
-
 # Brain Dumps
+A set of words that can be used to explain something (e.g., what is problem):
 ```markdown
-# A set of words that can be used to explain something (e.g., what is problem)
 1. a situation where
 2. a condition where
 3. a circumstance where
+```
 
----
-
-# masalah verifikasi ketika sedang login akun google
+masalah verifikasi ketika sedang login akun google:
+```markdown
 
 jadi ada sebuah masalah, masalahnya kayak gini:
 
@@ -99,31 +95,31 @@ pertanyaannya adalah dengan kondisi seperti itu, kalau tidak ada device android 
 itu dia masalahnya yang belum saya temukan solusinya itu apa.
 
 saat ini saya mengakalinya dengan cara minimal di satu device harus sudah terpasang akun google yang sudah terdaftar sebagai akun recovery di akun utama. Dengan begitu, ketika sedang login google atau gmail di akun utama dan ternyata muncul proses verifikasi, saya langsung pilih no 3 saja.
+```
 
----
-
-# There's 2 kind of people related to how DEI works : Stupid People & Not Stupid People (not always smart)
+There's 2 kind of people related to how DEI works, Stupid People & Not Stupid People (not always smart):
+```markdown
 for not stupid people, here's how it works.
 1. They depend on a Problem that they created themselves & They begin to fearmongering people with the buzzwords like nazi, racist, etc
 2. after that they offer a solution to open a new job market for themselves & the other
 3. In order to keep the needs for the job, back to 1
+```
 
----
-
-# Alasan-alasan organisasi/individual yang mau/tidak mau mengakui & minta maaf dari perbuatan yang salah terus viral dan tidak bisa didebat lagi :
+Alasan-alasan organisasi/individual yang mau/tidak mau mengakui & minta maaf dari perbuatan yang salah terus viral dan tidak bisa didebat lagi:
+```markdown
 1. ada yang harus dijaga, seperti karir, reputasi, lawsuit, uang, dan lain-lain
 2. Kalau tidak ada yang harus dijaga artinya yang ada malah di double down, contohnya adalah ketika banyak yang selebrasi ketika terjadi assassination charlie kirk, bukannya menyesali malah playing victim
+```
 
----
-
-# this are the few reason from gimmick (ex. open debate/insult/labeling) that hasan done for other people or themselves
+this are the few reason from gimmick (ex. open debate/insult/labeling) that hasan done for other people or themselves:
+```markdown
 - Maintain the current audience
 - reach the new audience that has the same thinking but don't watch hasan yet
 - call they "nazi", "racist", "fascist" to maintain the hatred & justify the violence against them
+```
 
----
-
-# Berbagai Kemungkinan yang terjadi di Drama Salah yang merasa "disalahkan" atas semua kekalahan yang terjadi
+Berbagai Kemungkinan yang terjadi di Drama Salah yang merasa "disalahkan" atas semua kekalahan yang terjadi:
+```markdown
 - Kemungkinan pihak salah yang memang salah dari awal
 
 - Kemungkinan pihak Liverpool yang salah
@@ -131,8 +127,6 @@ for not stupid people, here's how it works.
 
 - Kemungkinan pihak Salah & Liverpool sama-sama salah
 ```
-
----
 
 # Online Radio
 - https://onlineradiobox.com/us/worldhits/?cs=us.worldhits&played=1
@@ -228,9 +222,3 @@ for not stupid people, here's how it works.
 - https://www.jango.com/stations/314664515/tunein
 - https://www.jango.com/stations/401908590/tunein
 - https://onlineradiobox.com/de/bobmetalcore/?cs=de.bobmetalcore&played=1
-
-## Currently non-active
-- https://onlineradiobox.com/fr/helia100rock/?cs=fr.helia100rock&played=1
-- https://onlineradiobox.com/id/mtvrocks/?cs=id.mtvrocks&played=1
-- https://onlineradiobox.com/id/trans7/?cs=id.trans7&played=1
-- https://onlineradiobox.com/id/rockrewind/?cs=id.rockrewind&played=1
