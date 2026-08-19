@@ -81,7 +81,7 @@ jadi, ketika saya mau login akun google atau gmail (di bagian setelah memasukkan
 1. melakukan panggilan ke nomor kartu sim yang telah terdaftar di akun google tersebut (artinya nomor kartu sim harus dalam kondisi berfungsi dengan baik)
 2. kirim kode ke nomor kartu sim yang telah terdaftar di akun google tersebut (artinya nomor kartu sim harus dalam kondisi berfungsi dengan baik)
 3. kirim kode ke akun google lain yang telah dijadikan sebagai akun recovery di akun google tersebut. Untuk mengetahui apa kodenya, cek gmail dari akun google yang telah dijadikan sebagai akun recovery tersebut
-4. [lupa]
+4. *lupa
 
 nah kalau saya pilih no 1 atau 2, masalahnya adalah kartu sim saya sudah tidak berfungsi dengan baik
 
