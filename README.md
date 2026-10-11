@@ -118,47 +118,47 @@ __this are the few reason from gimmick (ex. open debate/insult/labeling) that ha
 # *Social Media Community*
 __Subreddit:__
 ```markdown
-* reddit.com/r/sports
-* reddit.com/r/soccer
-* reddit.com/r/soccercirclejerk
-* reddit.com/r/PremierLeague
-* reddit.com/r/LaLiga
-* reddit.com/r/SerieA
-* reddit.com/r/Bundesliga
-* reddit.com/r/Ligue1
-* reddit.com/r/Barca
-* reddit.com/r/realmadrid
-* reddit.com/r/fcbayern
-* reddit.com/r/Gunners
-* reddit.com/r/reddevils
-* reddit.com/r/MCFC
-* reddit.com/r/Football_dubdub
-* reddit.com/r/championsleague
-* reddit.com/r/chelseafc
-* reddit.com/r/ArsenalFC
-* reddit.com/r/LiverpoolFC
-* reddit.com/r/SoccerDaily
-* reddit.com/r/tennis
-* reddit.com/r/ManchesterUnited
-* reddit.com/r/SoccerCentral
-* reddit.com/r/indonesiabebas
-* reddit.com/r/Tottenham
-* reddit.com/r/RealMadridFC
-* reddit.com/r/football
-* reddit.com/r/indonesia
-* reddit.com/r/Tennisv2
-* reddit.com/r/PrimeiraLiga
-* reddit.com/r/EuropaLeague
-* reddit.com/r/Euros
-* reddit.com/r/Championship
-* reddit.com/r/worldcup
-* reddit.com/r/ConferenceLeague
-* reddit.com/r/usmnt
-* reddit.com/r/ussoccer
-* reddit.com/r/Futebol
-* reddit.com/r/MLS
-* reddit.com/r/Eredivisie
-* reddit.com/r/AFCON
+reddit.com/r/sports
+reddit.com/r/soccer
+reddit.com/r/soccercirclejerk
+reddit.com/r/PremierLeague
+reddit.com/r/LaLiga
+reddit.com/r/SerieA
+reddit.com/r/Bundesliga
+reddit.com/r/Ligue1
+reddit.com/r/Barca
+reddit.com/r/realmadrid
+reddit.com/r/fcbayern
+reddit.com/r/Gunners
+reddit.com/r/reddevils
+reddit.com/r/MCFC
+reddit.com/r/Football_dubdub
+reddit.com/r/championsleague
+reddit.com/r/chelseafc
+reddit.com/r/ArsenalFC
+reddit.com/r/LiverpoolFC
+reddit.com/r/SoccerDaily
+reddit.com/r/tennis
+reddit.com/r/ManchesterUnited
+reddit.com/r/SoccerCentral
+reddit.com/r/indonesiabebas
+reddit.com/r/Tottenham
+reddit.com/r/RealMadridFC
+reddit.com/r/football
+reddit.com/r/indonesia
+reddit.com/r/Tennisv2
+reddit.com/r/PrimeiraLiga
+reddit.com/r/EuropaLeague
+reddit.com/r/Euros
+reddit.com/r/Championship
+reddit.com/r/worldcup
+reddit.com/r/ConferenceLeague
+reddit.com/r/usmnt
+reddit.com/r/ussoccer
+reddit.com/r/Futebol
+reddit.com/r/MLS
+reddit.com/r/Eredivisie
+reddit.com/r/AFCON
 ```
 
 # *Online Radio*
