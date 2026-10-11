@@ -141,7 +141,6 @@ reddit.com/r/SoccerDaily
 reddit.com/r/tennis
 reddit.com/r/ManchesterUnited
 reddit.com/r/SoccerCentral
-reddit.com/r/indonesiabebas
 reddit.com/r/Tottenham
 reddit.com/r/RealMadridFC
 reddit.com/r/football
