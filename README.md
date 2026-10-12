@@ -115,8 +115,8 @@ __this are the few reason from gimmick (ex. open debate/insult/labeling) that ha
 * call they "nazi", "racist", "fascist" to maintain the hatred & justify the violence against them
 ```
 
-# *Social Media Community*
-__Subreddit:__
+# *Social Media Forums*
+__Reddit:__
 ```markdown
 reddit.com/r/sports
 reddit.com/r/soccer
@@ -171,6 +171,11 @@ facebook.com/fabrizioromanoherewego
 __X:__
 ```markdown
 x.com/FabrizioRomano
+```
+
+__Discord:__
+```markdown
+
 ```
 
 __Telegram:__
