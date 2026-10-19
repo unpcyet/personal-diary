@@ -65,6 +65,10 @@ __IGAF:__
 * Act like a fool
 * Being realistic and pragmatic
 * Don't overshare
+* Known Knowns (Yang kita tahu kalau kita tahu): Segala sesuatu yang sudah anda ketahui atau kuasai.
+* Known Unknowns (Yang kita tahu kalau kita tidak tahu): Segala sesuatu yang anda sadari belum anda ketahui atau kuasai.
+* Unknown Knowns (Yang tidak kita sadari kalau kita tahu): Pengetahuan bawah sadar, intuisi, atau hal yang sebenarnya anda ketahui cuman pada saat itu anda belum menyadarinya.
+* Unknown Unknowns (Yang tidak kita tahu kalau kita tidak tahu): Titik buta mutlak. Anda bahkan tidak punya bayangan bahwa hal atau masalah tersebut itu ada.
 ```
 
 __A set of words that can be used to explain something (e.g., what is problem):__
